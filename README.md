@@ -19,3 +19,7 @@ View view = findViewById(R.id.shadow_layout);
 <p>
 ShadowView.with(this, view).initView();
 </p>
+
+<p>
+![效果](https://github.com/eatdefecat/ShadowView/blob/master/img/20180410161638.png?raw=true)
+</p>
