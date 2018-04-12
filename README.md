@@ -3,7 +3,7 @@
 
 #### 引用
 ```
-compile 'com.github.dongze:shadow:1.0.0'
+compile 'com.dongze:shadowlib:1.0.0'
 ```
 
 #### 支持版本
